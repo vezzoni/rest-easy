@@ -1,8 +1,8 @@
 #Rest Easy sample application
 This lab shows how to setup a Restful API with Rest Easy. It is built with Maven which provides this project to be IDE agnostic. So, it is simple to build and run it:
 
-mvn clean install
-mvn jetty:run
+* mvn clean install
+* mvn jetty:run
 
 Addresses availables:
 
